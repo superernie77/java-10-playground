@@ -16,5 +16,4 @@ public class OptionalOrElseThowTest {
 		
 		assertThrows(NoSuchElementException.class, () -> opt.orElseThrow() );
 	}
-
 }
