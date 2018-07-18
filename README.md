@@ -5,5 +5,5 @@
 Collection of JUnit 5 Tests showing new language features and APIs of Java 10
 
 - Type Interference (LocalInteference.java)
-- new Option.orElseThow Method
-- unmodifiable List with Collector
+- new Optional.orElseThow Method (OptionalOrElseThowTest.java)
+- unmodifiable List with Collector (UnmodifiableCollectionTest.java)
